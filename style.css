@@ -1,13 +1,10 @@
-.one{
+.sidebar{
     background-color: lightblue;
     margin-right: 1700px;
     padding: 50px;
 }
 
-.two{
-    display: flex;
-    justify-content: space-evenly
-}
+
 
 
 
